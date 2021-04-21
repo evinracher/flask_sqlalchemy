@@ -11,6 +11,7 @@ marshmallow==3.11.1
 marshmallow-sqlalchemy==0.24.2
 pycodestyle==2.7.0
 PyMySQL==1.0.2
+python-dotenv==0.17.0
 six==1.15.0
 SQLAlchemy==1.4.9
 toml==0.10.2
